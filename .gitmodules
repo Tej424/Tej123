@@ -1,0 +1,3 @@
+[submodule "AzureDevops"]
+	path = AzureDevops
+	url = https://github.com/Tej424/AzureDevops.git
